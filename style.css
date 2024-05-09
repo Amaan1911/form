@@ -165,3 +165,13 @@ cursor:pointer;
 }
     
 }
+@media screen and (max-width: 450px){
+    .form-container{
+        width: 100%;
+        margin: 0;
+    }
+
+
+
+}
+    
